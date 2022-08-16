@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-form-input-onchange/static/css/main.afafe386.css",
+    "main.js": "/React-form-input-onchange/static/js/main.7fecb762.js",
+    "static/js/787.ad642d68.chunk.js": "/React-form-input-onchange/static/js/787.ad642d68.chunk.js",
+    "index.html": "/React-form-input-onchange/index.html",
+    "main.afafe386.css.map": "/React-form-input-onchange/static/css/main.afafe386.css.map",
+    "main.7fecb762.js.map": "/React-form-input-onchange/static/js/main.7fecb762.js.map",
+    "787.ad642d68.chunk.js.map": "/React-form-input-onchange/static/js/787.ad642d68.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afafe386.css",
+    "static/js/main.7fecb762.js"
+  ]
+}
